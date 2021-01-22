@@ -39,8 +39,8 @@ This system is developed by using Java. It stores exam result in text file.
 
 ## Installation
 - The main class file is view/ExamResult.java.
-- Admin ID - admin-1
-- Admin Password - admin
+- Default Admin ID - admin-1
+- Default Admin Password - admin
 
 ## Future Works
 - Ability to change password
