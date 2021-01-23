@@ -6,7 +6,7 @@ This system is developed by using Java. It stores exam result in text file.
 - Teacher
 - Student
 
-## Responsibilities
+## Functionalities
 
 ### Admin
 - Create New Teacher Account
